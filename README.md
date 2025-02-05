@@ -1,5 +1,15 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Yağız! <br/><a href="https://github.com/joshmadakor1">Business Analyst</a>, <a href="https://www.linkedin.com/in/yagiz-gezmen/">Product Owner</a>, <a >Scrum Master</a></h1>
+<h2>👨‍💻 About Me:</h2>
+I’m a Business Analyst, Product Owner, and Scrum Master with a strong background in Computer Engineering and Business Administration. With expertise in Agile methodologies, stakeholder management, and data-driven decision-making, I help businesses optimize their processes and deliver high-impact digital solutions.
 
+Ever since I started my career in technology and business analysis, I’ve been passionate about solving complex problems and making processes more efficient. With experience in both technical and business domains, I thrive at the intersection of technology, strategy, and data—helping businesses make smarter decisions and optimize their workflows.
+
+I believe that great products are built at the crossroads of innovation and user needs. That’s why I specialize in understanding business challenges, translating them into technical requirements, and working with cross-functional teams to deliver real value. Whether it's enhancing enterprise systems, improving data models, or leading Agile teams, I enjoy bringing clarity to chaos and turning ideas into reality.
+
+I’ve worked across finance, banking, and aviation industries, gaining hands-on experience in Agile transformations, data-driven product management, and business process optimization. My approach is always collaborative, analytical, and solution-oriented, ensuring that technology serves business goals effectively.
+
+As I continue to grow in my career, I’m constantly learning new methodologies, exploring emerging tech trends, and seeking ways to improve efficiency in digital solutions. My goal is to create meaningful impact—whether by streamlining business operations, improving customer experiences, or driving innovation through Agile frameworks.
+Now, let’s dive into what I do best! 🚀
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -36,7 +46,7 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/yagiz-gezmen/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
