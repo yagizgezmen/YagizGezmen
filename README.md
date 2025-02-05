@@ -13,29 +13,53 @@ As I continue to grow in my career, I’m constantly learning new methodologies,
 Now, let’s dive into what I do best! 🚀
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>HalkBank </b>
+  - [Open Banking](https://github.com/yagizgezmen/OpenBanking)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+- <b>Amadeus</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - 
+<h2>📺 Tools & Technologies Used</h2>
+For each project, I leveraged a variety of tools and technologies to ensure efficient business analysis, agile project execution, data analysis, and stakeholder collaboration. Below is a breakdown of the key tools used.
 
-<h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
+📌 Business Analysis & Requirement Gathering
+Jira & Confluence – Used to create and manage user stories, document requirements, and track sprint progress.
+BPMN & UML Diagrams – Created process models to visualize workflows, identify inefficiencies, and design optimized solutions.
+Microsoft Visio & Draw.io – Used for diagramming business processes and creating technical architecture designs.
+User Story Mapping – Ensured clear alignment between business needs and technical implementation by structuring product backlog efficiently.
+
+📌 Agile & Scrum Methodologies
+SAFe (Scaled Agile Framework) – Applied SAFe principles to manage large-scale agile teams and product backlogs.
+Sprint Planning & Retrospectives – Led Agile ceremonies to ensure continuous improvements and optimize team efficiency.
+Kanban & Scrum Boards – Tracked workflow stages, minimized bottlenecks, and enhanced delivery consistency.
+Stakeholder Engagement Frameworks – Conducted structured workshops to align business and IT teams for seamless execution.
+
+📌 Data Analytics & Process Optimization
+SQL (Structured Query Language) – Wrote complex queries to extract and analyze data for business insights and reporting.
+Power BI & Tableau – Designed interactive dashboards for real-time KPI tracking and trend analysis.
+Data Modeling & ETL Processes – Structured data models and optimized data extraction, transformation, and loading (ETL) pipelines.
+Microsoft Excel (Advanced Analytics) – Used pivot tables, VLOOKUP, and macros for financial and operational data analysis.
+
+📌 Software & System Development Collaboration
+REST & SOAP APIs – Collaborated with developers to define API requirements for integrating business systems.
+Version Control (Git, GitHub, Bitbucket) – Worked alongside developers to maintain agile code repositories and documentation.
+CI/CD Pipelines (Jenkins, GitLab CI) – Ensured seamless deployment and testing of iterative software updates.
+Cloud Platforms (AWS, Azure, GCP) – Assisted in defining cloud-based architecture strategies for scalable applications.
+
+📌 Business Process Automation & Workflow Optimization
+Robotic Process Automation (RPA) - UiPath, Power Automate – Designed workflow automation solutions to reduce manual effort in data processing.
+ServiceNow & ITSM Tools – Assisted IT teams in incident management, ticket tracking, and automation of business processes.
+ERP & CRM Systems (SAP, Salesforce, Oracle NetSuite) – Worked on system integrations and process optimizations in enterprise resource planning (ERP) solutions.
+
+📌 Collaboration & Communication
+Microsoft Teams & Slack – Used for daily team communication, sprint stand-ups, and project coordination.
+Miro & Lucidchart – Facilitated brainstorming sessions and whiteboarding for Agile planning.
+Google Suite (Docs, Sheets, Slides) – Created detailed project documentation, stakeholder presentations, and business reports.
+Trello & Asana – Used for tracking project deliverables and maintaining workflow visibility across teams.
+
 
 <h2> 🤳 Connect with me:</h2>
 
