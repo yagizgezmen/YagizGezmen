@@ -19,7 +19,6 @@ Now, let’s dive into what I do best! 🚀
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Amadeus</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - 
 <h2>📺 Tools & Technologies Used</h2>
 For each project, I leveraged a variety of tools and technologies to ensure efficient business analysis, agile project execution, data analysis, and stakeholder collaboration. Below is a breakdown of the key tools used.
 
@@ -48,11 +47,6 @@ REST & SOAP APIs – Collaborated with developers to define API requirements for
 Version Control (Git, GitHub, Bitbucket) – Worked alongside developers to maintain agile code repositories and documentation.
 CI/CD Pipelines (Jenkins, GitLab CI) – Ensured seamless deployment and testing of iterative software updates.
 Cloud Platforms (AWS, Azure, GCP) – Assisted in defining cloud-based architecture strategies for scalable applications.
-
-📌 Business Process Automation & Workflow Optimization
-Robotic Process Automation (RPA) - UiPath, Power Automate – Designed workflow automation solutions to reduce manual effort in data processing.
-ServiceNow & ITSM Tools – Assisted IT teams in incident management, ticket tracking, and automation of business processes.
-ERP & CRM Systems (SAP, Salesforce, Oracle NetSuite) – Worked on system integrations and process optimizations in enterprise resource planning (ERP) solutions.
 
 📌 Collaboration & Communication
 Microsoft Teams & Slack – Used for daily team communication, sprint stand-ups, and project coordination.
