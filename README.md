@@ -21,36 +21,54 @@ As I continue to grow in my career, I’m constantly learning new methodologies,
 <h2>📺 Tools & Technologies Used</h2>
 For each project, I leveraged a variety of tools and technologies to ensure efficient business analysis, agile project execution, data analysis, and stakeholder collaboration. Below is a breakdown of the key tools used.
 
-
-
 📌 Business Analysis & Requirement Gathering
+
 Jira & Confluence – Used to create and manage user stories, document requirements, and track sprint progress.
+
 BPMN & UML Diagrams – Created process models to visualize workflows, identify inefficiencies, and design optimized solutions.
+
 Microsoft Visio & Draw.io – Used for diagramming business processes and creating technical architecture designs.
+
 User Story Mapping – Ensured clear alignment between business needs and technical implementation by structuring product backlog efficiently.
 
 📌 Agile & Scrum Methodologies
+
 SAFe (Scaled Agile Framework) – Applied SAFe principles to manage large-scale agile teams and product backlogs.
+
 Sprint Planning & Retrospectives – Led Agile ceremonies to ensure continuous improvements and optimize team efficiency.
+
 Kanban & Scrum Boards – Tracked workflow stages, minimized bottlenecks, and enhanced delivery consistency.
+
 Stakeholder Engagement Frameworks – Conducted structured workshops to align business and IT teams for seamless execution.
 
 📌 Data Analytics & Process Optimization
+
 SQL (Structured Query Language) – Wrote complex queries to extract and analyze data for business insights and reporting.
+
 Power BI & Tableau – Designed interactive dashboards for real-time KPI tracking and trend analysis.
+
 Data Modeling & ETL Processes – Structured data models and optimized data extraction, transformation, and loading (ETL) pipelines.
+
 Microsoft Excel (Advanced Analytics) – Used pivot tables, VLOOKUP, and macros for financial and operational data analysis.
 
 📌 Software & System Development Collaboration
+
 REST & SOAP APIs – Collaborated with developers to define API requirements for integrating business systems.
+
 Version Control (Git, GitHub, Bitbucket) – Worked alongside developers to maintain agile code repositories and documentation.
+
 CI/CD Pipelines (Jenkins, GitLab CI) – Ensured seamless deployment and testing of iterative software updates.
+
 Cloud Platforms (AWS, Azure, GCP) – Assisted in defining cloud-based architecture strategies for scalable applications.
 
 📌 Collaboration & Communication
+
 Microsoft Teams & Slack – Used for daily team communication, sprint stand-ups, and project coordination.
+
 Miro & Lucidchart – Facilitated brainstorming sessions and whiteboarding for Agile planning.
+
 Google Suite (Docs, Sheets, Slides) – Created detailed project documentation, stakeholder presentations, and business reports.
+
 Trello & Asana – Used for tracking project deliverables and maintaining workflow visibility across teams.
 
 
