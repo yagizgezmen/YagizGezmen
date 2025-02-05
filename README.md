@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yağız! <br/><a href="https://github.com/yagizgezmen">Business Analyst</a>, <a href="https://www.linkedin.com/in/yagiz-gezmen/">Product Owner</a>, <a >Scrum Master</a></h1>
+<h1>Hi, I'm Yağız! <br/>Business Analyst</a>, <a ">Product Owner</a>, <a >Scrum Master</a></h1>
 <h2>👨‍💻 About Me:</h2>
 I’m a Business Analyst, Product Owner, and Scrum Master with a strong background in Computer Engineering and Business Administration. With expertise in Agile methodologies, stakeholder management, and data-driven decision-making, I help businesses optimize their processes and deliver high-impact digital solutions.
 
