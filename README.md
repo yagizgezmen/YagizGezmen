@@ -10,7 +10,6 @@ I’ve worked across finance, banking, and aviation industries, gaining hands-on
 
 As I continue to grow in my career, I’m constantly learning new methodologies, exploring emerging tech trends, and seeking ways to improve efficiency in digital solutions. My goal is to create meaningful impact—whether by streamlining business operations, improving customer experiences, or driving innovation through Agile frameworks.
 
-Now, let’s dive into what I do best! 🚀
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>HalkBank </b>
