@@ -1,5 +1,5 @@
 <h1>Hi, I'm Yağız! <br/>Business Analyst</a>, <a ">Product Owner</a>, <a >Scrum Master</a></h1>
-<h2>👨‍💻 About Me:</h2>
+<h2>👨‍💼 About Me:</h2>
 I’m a Business Analyst, Product Owner, and Scrum Master with a strong background in Computer Engineering and Business Administration. With expertise in Agile methodologies, stakeholder management, and data-driven decision-making, I help businesses optimize their processes and deliver high-impact digital solutions.
 
 Ever since I started my career in technology and business analysis, I’ve been passionate about solving complex problems and making processes more efficient. With experience in both technical and business domains, I thrive at the intersection of technology, strategy, and data—helping businesses make smarter decisions and optimize their workflows.
@@ -18,7 +18,7 @@ As I continue to grow in my career, I’m constantly learning new methodologies,
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Amadeus</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-<h2>📺 Tools & Technologies Used</h2>
+<h2>🛠  Tools & Technologies Used</h2>
 For each project, I leveraged a variety of tools and technologies to ensure efficient business analysis, agile project execution, data analysis, and stakeholder collaboration. Below is a breakdown of the key tools used.
 
 📌 Business Analysis & Requirement Gathering
